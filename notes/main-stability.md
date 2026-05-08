@@ -1,2 +1,2 @@
 # main-stability
-May milestone update.
+Main branch update for May 2026.
